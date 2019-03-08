@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-
 setup(
     name="home-assistant-frontend",
     version="20190305.0",
